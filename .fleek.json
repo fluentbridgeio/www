@@ -1,0 +1,11 @@
+{
+ "build": {
+   "image": "node:alpine",
+   "command": "npm install && npm run build && echo $SOME_ENV",
+   "publicDir": "public",
+   "baseDir": "frontend",
+   "environment": {
+     "BUILD_ENV": "production"
+   }
+ }
+}
