@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FluentBridge.io</title>
-    <link>http://localhost:1313/</link>
+    <link>https://fluentbridge.io/</link>
     <description>Recent content on FluentBridge.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fluentbridge.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
