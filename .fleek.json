@@ -1,9 +1,9 @@
 {
  "build": {
-   "image": "node:alpine",
-   "command": "npm install && npm run build && echo $SOME_ENV",
+   "image": "node:hugo",
+   "command": "hugo",
    "publicDir": "public",
-   "baseDir": "frontend",
+   "baseDir": "./",
    "environment": {
      "BUILD_ENV": "production"
    }
