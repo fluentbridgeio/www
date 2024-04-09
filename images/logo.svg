@@ -1,0 +1,21 @@
+<svg width="66" height="66" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_718_2878" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="1" width="64" height="64">
+<ellipse cx="32.2241" cy="32.958" rx="31.2861" ry="31.2861" transform="rotate(90 32.2241 32.958)" fill="url(#paint0_linear_718_2878)"/>
+</mask>
+<g mask="url(#mask0_718_2878)">
+<ellipse cx="32.2241" cy="32.958" rx="31.2861" ry="31.2861" transform="rotate(90 32.2241 32.958)" fill="url(#paint1_linear_718_2878)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.61046 26.1673C8.29136 24.8351 10.2814 24.5045 11.3913 25.5688L11.3981 25.5752L23.5956 36.8368L29.5575 42.7986C29.6585 42.8997 29.7955 42.9564 29.9384 42.9564H42.8669C43.0427 42.9564 43.2074 42.8707 43.3082 42.7267L45.5738 39.4901L52.1049 31.2646L52.122 31.2401C52.7194 30.3866 53.2973 29.9871 53.789 29.8502C54.2403 29.7246 54.7564 29.7816 55.363 30.1396L67.3236 40.4711L68.6147 38.9764L56.5318 28.5392L56.4651 28.4979C55.4615 27.8773 54.3602 27.641 53.2594 27.9474C52.1918 28.2445 51.2781 29.0097 50.5215 30.0823L46.2043 35.5195C45.8818 35.7588 45.5258 36.0058 45.1368 36.2529C42.914 37.6651 39.6191 39.0779 35.3253 39.0779C31.7194 39.0779 28.0318 37.3876 24.9528 35.4015L12.7512 24.1363C10.719 22.1968 7.16922 22.7224 5.86136 25.2496L-1.56348 38.4421L0.157826 39.4109L7.60144 26.185L7.61046 26.1673Z" fill="white"/>
+<path opacity="0.25" d="M64.0061 42.9121H0.440918V64.2442H64.0061V42.9121Z" fill="white"/>
+<rect x="-2.90674" y="34.9229" width="70.261" height="1.34773" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_718_2878" x1="55.6571" y1="54.2756" x2="11.5247" y2="7.8993" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A870EF"/>
+<stop offset="1" stop-color="#FEBA9C"/>
+</linearGradient>
+<linearGradient id="paint1_linear_718_2878" x1="55.6571" y1="54.2756" x2="11.5247" y2="7.8993" gradientUnits="userSpaceOnUse">
+<stop offset="0.385" stop-color="#A870EF"/>
+<stop offset="0.88" stop-color="#FEBA9C"/>
+</linearGradient>
+</defs>
+</svg>
